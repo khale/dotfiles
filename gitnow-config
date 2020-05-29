@@ -1,0 +1,22 @@
+[ keybindings ]
+
+# Alt + S
+state = \es
+
+# Alt + N
+stage = \ee
+
+# Ctrl + Y
+unstage = \ce
+
+# Alt + D
+pull = \ed
+
+# Alt + P
+push = \ep
+
+# Alt + U
+upstream = \eu
+
+# Alt + L
+logs = \el
