@@ -14,3 +14,4 @@ end
 alias lg=lazygit
 alias lk=lazydocker
 alias fd=fdfind
+alias bat=batcat
